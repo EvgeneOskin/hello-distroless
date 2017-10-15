@@ -1,0 +1,5 @@
+bazel-bin
+bazel-genfiles
+bazel-hello-distroless
+bazel-out
+bazel-testlogs
